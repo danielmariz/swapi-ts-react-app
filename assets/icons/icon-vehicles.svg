@@ -1,0 +1,14 @@
+<svg width="22" height="16" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>icon-vehicles</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(482 180)" figma:type="canvas">
+<g id="icon-vehicles" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(-482 -180)"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 19 4L 16 4L 16 0L 2 0C 0.9 0 0 0.9 0 2L 0 13L 2 13C 2 14.66 3.34 16 5 16C 6.66 16 8 14.66 8 13L 14 13C 14 14.66 15.34 16 17 16C 18.66 16 20 14.66 20 13L 22 13L 22 8L 19 4ZM 5 14.5C 4.17 14.5 3.5 13.83 3.5 13C 3.5 12.17 4.17 11.5 5 11.5C 5.83 11.5 6.5 12.17 6.5 13C 6.5 13.83 5.83 14.5 5 14.5ZM 18.5 5.5L 20.46 8L 16 8L 16 5.5L 18.5 5.5ZM 17 14.5C 16.17 14.5 15.5 13.83 15.5 13C 15.5 12.17 16.17 11.5 17 11.5C 17.83 11.5 18.5 12.17 18.5 13C 18.5 13.83 17.83 14.5 17 14.5Z"/>
+</defs>
+</svg>
