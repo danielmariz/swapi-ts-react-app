@@ -1,0 +1,18 @@
+export type TFETCH_PEOPLE = 'People/FETCH';
+export type TFETCH_PEOPLE_REQUEST = 'People/FETCH_REQUEST';
+export type TFETCH_PEOPLE_SUCCESS = 'People/FETCH_SUCCESS';
+export type TFETCH_PEOPLE_FAILURE = 'People/FETCH_FAILURE';
+
+export type TPeopleActions = {
+    FETCH: TFETCH_PEOPLE,
+    FETCH_REQUEST: TFETCH_PEOPLE_REQUEST,
+    FETCH_SUCCESS: TFETCH_PEOPLE_SUCCESS,
+    FETCH_FAILURE: TFETCH_PEOPLE_FAILURE,
+};
+
+export const PeopleActions: TPeopleActions = {
+    FETCH: 'People/FETCH',
+    FETCH_REQUEST: 'People/FETCH_REQUEST',
+    FETCH_SUCCESS: 'People/FETCH_SUCCESS',
+    FETCH_FAILURE: 'People/FETCH_FAILURE',
+};
